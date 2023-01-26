@@ -1,0 +1,39 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.mainlist {
+    font-size: 50px;
+    color: cornflowerblue;
+    text-align: left;
+    font font-weight: bold;
+    background-color: yellow;
+}
+
+li.child {
+    color: rgb(238, 73, 183);
+}
+
+h1 {
+    font-size: x-large;
+    background-color: red;
+    color: brown;
+}
+
+h2 {
+    font-size: large;
+    color: red;
+    background-color: pink;
+}
+
+ul.ingredients {
+    background-color: blue;
+}
+
+ol.steps {
+    background-color: green;
+}
+
+li.favorite{
+    font-weight: bolder;
+}
